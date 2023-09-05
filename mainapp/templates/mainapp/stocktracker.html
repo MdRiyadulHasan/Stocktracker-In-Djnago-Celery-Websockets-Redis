@@ -61,10 +61,10 @@
         <tr>
           <th scope="row">{{ forloop.counter }}</th>
           <td>{{ key }}</td>
-          <td id="{{key}}_price" >{{ val.currentPrice }}</td>
-          <td id="{{key}}_prevprice" >{{ val.previousClose }}</td>
-          <td id="{{key}}_open" >{{ val.open }}</td>
-          <td id="{{key}}_change" >
+          <td id="{{key}}_price">{{ val.currentPrice }}</td>
+          <td id="{{key}}_prevprice">{{ val.previousClose }}</td>
+          <td id="{{key}}_open">{{ val.open }}</td>
+          <td id="{{key}}_change">
             <script>
               var change = document.getElementById("{{key}}_price").innerHTML - document.getElementById(
                 "{{key}}_prevprice").innerHTML;
@@ -88,8 +88,30 @@
 
       </tbody>
     </table>
+    <br>
+    <div style="display:flex">
+      <div class="gap-2 me-2">
+        <a class="btn btn-primary" href="/" role="button">Home</a>
+      </div>
+      <div class="gap-2">
+        <a class="btn btn-danger" href="/" role="button">Reset</a>
+      </div>
+    </div>
 
   </div>
+  {{ room_name|json_script:"room-name" }}
+  <script>
+    const roomName = JSON.parse(document.getElementById('room-name').textContent);
+
+    const chatSocket = new WebSocket(
+      'ws://'
+      + window.location.host
+      +'/ws/stock/'
+      + roomName
+      + '/'
+    );
+
+  </script>
 
   {% endblock %}
 
@@ -97,6 +119,7 @@
   {% block js %}
 
   <script>
+
 
   </script>
 
