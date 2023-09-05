@@ -52,7 +52,7 @@ def stocktracker(request):
     print("Timetaken", timetaken)       
     # print(historical_datas)
       
-    return render(request, 'mainapp/stocktracker.html', {"data":data})
+    return render(request, 'mainapp/stocktracker.html', {"data":data, 'room_name': 'track'})
 
 def test(request):
    
