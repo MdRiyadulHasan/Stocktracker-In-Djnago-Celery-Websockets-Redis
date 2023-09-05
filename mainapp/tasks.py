@@ -4,6 +4,9 @@ from threading import Thread
 import yfinance as yf
 import queue
 import json
+from channels.layers import get_channel_layer
+import asyncio
+
 
 import asyncio
 @shared_task(bind = True)
@@ -30,4 +33,16 @@ def update_stock(self, stockpicker):
     while not que.empty():
         result = que.get()
         data.update(result)
+
+    # send data to group
+    channel_layer = get_channel_layer()
+    loop = asyncio.new_event_loop()
+
+    asyncio.set_event_loop(loop)
+
+    loop.run_until_complete(channel_layer.group_send("stock_track", {
+        'type': 'send_stock_update',
+        'message': data,
+    }))
+    
     return " Done Riyad Vai "
