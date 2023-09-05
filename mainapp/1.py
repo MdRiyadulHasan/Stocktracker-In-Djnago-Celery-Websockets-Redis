@@ -1,116 +1,74 @@
-address1: Maker Chambers IV
-address2: 3rd Floor 222 Nariman Point
-city: Mumbai
-zip: 400021
-country: India
-phone: 91 22 3555 5000
-fax: 91 22 2204 2268
-website: https://www.ril.com
-industry: Oil & Gas Refining & Marketing
-industryDisp: Oil & Gas Refining & Marketing
-sector: Energy
-sectorDisp: Energy
-longBusinessSummary: Reliance Industries Limited engages in hydrocarbon exploration and production, oil and chemicals, textile, retail, digital, material and composites, renewables, and financial services businesses worldwide. The company produces and markets petroleum products, such as liquefied petroleum gas, propylene, naphtha, gasoline, jet/aviation turbine fuel, kerosene oil, diesel, Sulphur, and petroleum coke. It also provides petrochemicals, including high-density and low-density polyethylene (PE), linear low density PE, polyester fibers and yarns, polypropylene, polyvinyl chloride, purified terephthalic acid, ethylene glycols and oxide, paraxylene, ortho xylene, benzene, linear alkyl benzene and paraffin, poly butadiene rubber, styrene butadiene rubber, butyl rubber, and polyethylene terephthalate. In addition, the company manufactures and markets yarns, fabrics, apparel, and auto furnishings; explores, develops, and produces crude oil and natural gas; and operates various stores comprising neighborhood, supermarket, hypermarket, wholesale cash and carry, specialty, online stores, as well as stores that offer apparel, beauty and cosmetics, accessories, footwear, consumer electronics, connectivity products, and others. Further, the company provides range of digital services under the Jio brand name; and non-banking financial and insurance broking services. Additionally, it operates news and entertainment platforms, and Network18 and television channels; publishes magazines; and offers highway hospitality and fleet management services. Reliance Industries Limited was incorporated in 1973 and is based in Mumbai, India.
-fullTimeEmployees: 389414
-companyOfficers: [{'maxAge': 1, 'name': 'Mr. Mukesh Dhirubhai Ambani', 'age': 65, 'title': 'Chairman & MD', 'yearBorn': 1957, 'fiscalYear': 2023, 'totalPay': 0, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Srikanth  Venkatachari', 'age': 56, 'title': 'Chief Financial Officer', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Savithri  Parekh', 'title': 'Company Sec. & Compliance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nikhil Rasiklal Meswani', 'age': 56, 'title': 'Exec. Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 250000000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hital Rasiklal Meswani', 'age': 54, 'title': 'Exec. Director', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 250000000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Panda Madhusudana Siva Prasad', 'age': 70, 'title': 'Exec. Director', 'yearBorn': 1952, 'fiscalYear': 2023, 'totalPay': 135000000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Parul  Sharma', 'title': 'Group Pres', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jyotindra Hiralal Thacker', 'title': 'Pres of Technology', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hemen Kanu Modi', 'title': 'VP of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rohit  Bansal', 'title': 'Group Head of Communications', 'exercisedValue': 0, 'unexercisedValue': 0}]
-auditRisk: 2
-boardRisk: 5
-compensationRisk: 7
-shareHolderRightsRisk: 1
-overallRisk: 6
-governanceEpochDate: 1693180800
-compensationAsOfEpochDate: 1703980800
-maxAge: 86400
-priceHint: 2
-previousClose: 2407.0
-open: 2406.55
-dayLow: 2401.65
-dayHigh: 2425.65
-regularMarketPreviousClose: 2407.0
-regularMarketOpen: 2406.55
-regularMarketDayLow: 2401.65
-regularMarketDayHigh: 2425.65
-dividendRate: 9.0
-dividendYield: 0.0037
-exDividendDate: 1692576000
-payoutRatio: 0.083500005
-beta: 0.703452
-trailingPE: 25.274338
-forwardPE: 33.53027
-volume: 2937787
-regularMarketVolume: 2937787
-averageVolume: 6967242
-averageVolume10days: 7236007
-averageDailyVolume10Day: 7236007
-bid: 2409.5
-ask: 2409.75
-bidSize: 0
-askSize: 0
-marketCap: 16375401676800
-fiftyTwoWeekLow: 2180.0
-fiftyTwoWeekHigh: 2856.0
-priceToSalesTrailing12Months: 1.8861933
-fiftyDayAverage: 2564.177
-twoHundredDayAverage: 2472.8057
-trailingAnnualDividendRate: 0.0
-trailingAnnualDividendYield: 0.0
-currency: INR
-enterpriseValue: 18735612035072
-profitMargins: 0.07459
-floatShares: 3064556830
-sharesOutstanding: 6766110208
-heldPercentInsiders: 0.49666
-heldPercentInstitutions: 0.27798
-impliedSharesOutstanding: 6797170176
-bookValue: 1213.497
-priceToBook: 1.9852954
-lastFiscalYearEnd: 1680220800
-nextFiscalYearEnd: 1711843200
-mostRecentQuarter: 1688083200
-earningsQuarterlyGrowth: -0.108
-netIncomeToCommon: 647960002560
-trailingEps: 95.32
-forwardEps: 71.85
-lastSplitFactor: 2:1
-lastSplitDate: 1504742400
-enterpriseToRevenue: 2.158
-enterpriseToEbitda: 13.025
-52WeekChange: -0.04880458
-SandP52WeekChange: 0.1505022
-lastDividendValue: 9.0
-lastDividendDate: 1692576000
-exchange: NSI
-quoteType: EQUITY
-symbol: RELIANCE.NS
-underlyingSymbol: RELIANCE.NS
-shortName: RELIANCE INDS
-longName: Reliance Industries Limited
-firstTradeDateEpochUtc: 820467900
-timeZoneFullName: Asia/Kolkata
-timeZoneShortName: IST
-uuid: 6fb3aba7-25b9-3826-85a7-5fb8a94f4e84
-messageBoardId: finmb_878373
-gmtOffSetMilliseconds: 19800000
-currentPrice: 2409.15
-targetHighPrice: 2830.0
-targetLowPrice: 1350.0
-targetMeanPrice: 2272.1
-targetMedianPrice: 2280.0
-recommendationMean: 2.1
-recommendationKey: buy
-numberOfAnalystOpinions: 29
-totalCash: 2034269945856
-totalCashPerShare: 300.611
-ebitda: 1438450057216
-totalDebt: 3351340122112
-totalRevenue: 8681720119296
-debtToEquity: 35.875
-revenuePerShare: 1283.128
-grossProfits: 3020140000000
-earningsGrowth: -0.109
-revenueGrowth: -0.054
-grossMargins: 0.33853
-ebitdaMargins: 0.16569
-operatingMargins: 0.11529
-financialCurrency: INR
-trailingPegRatio: None
+# import threading
+# import time
+
+# # Define a function that will be run by each thread
+# def worker_function(thread_id):
+#     print(f"Thread {thread_id} is starting... \n ")
+#     sum = 0
+#     for i in range(200):
+#         sum = sum+i
+#     print(f"Thread {thread_id} is Finished sum is : {sum} \n ", )
+#     time.sleep(2)
+#     print(f"Thread {thread_id} is done. \n ")
+
+# # Create multiple threads
+# threads = []
+
+# for i in range(8):
+#     thread = threading.Thread(target=worker_function, args=(i,))
+#     threads.append(thread)
+#     thread.start()
+
+# # Wait for all threads to finish
+# for thread in threads:
+#     thread.join()
+
+# print("All threads have finished.")
+# import threading
+
+# # Define a simple function that will run in a thread
+# def print_numbers():
+#     for i in range(1, 18):
+#         print(f"Number { i }")
+
+# # Define another function to print letters
+# def print_letters():
+#     for letter in 'ABCDEFGHJKKIIY':
+#         print(f"Letter {letter }")
+
+# # Create two threads
+# thread1 = threading.Thread(target=print_numbers)
+# thread2 = threading.Thread(target=print_letters)
+
+# # Start the threads
+# thread1.start()
+# thread2.start()
+
+# # Wait for both threads to finish
+# thread1.join()
+# thread2.join()
+
+# print("Both threads have finished.")
+
+import multiprocessing
+
+# Define a function to perform some computation
+def worker_function(number):
+    result = number * 2
+    print(f"Worker {number}: Result is {result}")
+
+if __name__ == "__main__":
+    # Create a list of numbers to process
+    numbers_to_process = [1, 2, 3, 4, 5]
+
+    # Create a pool of worker processes
+    pool = multiprocessing.Pool()
+
+    # Map the worker function to the list of numbers
+    pool.map(worker_function, numbers_to_process)
+
+    # Close the pool and wait for all processes to complete
+    pool.close()
+    pool.join()
+
+    print("All processes have finished.")
